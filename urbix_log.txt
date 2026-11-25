@@ -1,0 +1,38 @@
+[Step 0] New city generated.
+[Step 0] Taxi 2 booked from (2, 2) to (6, 7).
+[Step 2] Simulation saved to urbix_save.txt.
+[Step 0] New city generated.
+[Step 2] Simulation loaded from urbix_save.txt.
+[Step 16] Taxi 2 completed ride to (6, 7).
+[Step 17] Simulation saved to urbix_save.txt.
+[Step 0] New city generated.
+[Day 01 08:00 | Tick 0] New city generated.
+[Day 01 08:00 | Tick 0] New city generated.
+[Day 01 08:00 | Tick 0] New city generated.
+[Day 03 11:10 | Tick 307] Taxi 4 booked from (2, 7) to (10, 4).
+[Day 03 15:00 | Tick 330] Taxi 4 picked up passenger at (2, 7).
+[Day 03 16:50 | Tick 341] Taxi 4 completed ride to (10, 4).
+[Day 05 16:00 | Tick 624] Taxi 2 booked from (2, 27) to (10, 1).
+[Day 05 17:20 | Tick 632] Taxi 2 picked up passenger at (2, 27).
+[Day 05 23:00 | Tick 666] Taxi 2 completed ride to (10, 1).
+[Day 01 08:00 | Tick 0] New city generated.
+[Day 01 08:00 | Tick 0] New city generated.
+[Day 01 08:00 | Tick 0] New city generated.
+[Day 01 08:00 | Tick 0] New city generated.
+[Day 01 08:00 | Tick 0] New city generated.
+[Day 01 08:00 | Tick 0] New city generated.
+[Day 01 08:00 | Tick 0] New city generated.
+[Day 01 08:00 | Tick 0] New city generated.
+[Day 01 08:00 | Tick 0] New city generated.
+[Day 02 04:00 | Tick 120] Simulation saved.
+[Day 02 04:00 | Tick 120] Simulation loaded.
+[Day 01 08:00 | Tick 0] New city generated.
+[Day 01 08:00 | Tick 0] New city generated.
+[Day 01 08:00 | Tick 0] New city generated.
+[Day 02 04:00 | Tick 120] Simulation loaded.
+[Day 01 08:00 | Tick 0] New city generated.
+[Day 01 08:00 | Tick 0] New city generated.
+[Day 01 08:00 | Tick 0] New city generated.
+[Day 01 08:10 | Tick 1] Simulation saved.
+[Day 01 08:00 | Tick 0] New city generated.
+[Day 01 08:00 | Tick 0] New city generated.
